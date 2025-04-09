@@ -31,5 +31,5 @@ I’m an electrical engineer passionate about **industrial automation, electroni
 
 <h4>Connect with me</h4>  
 
-+ **LinkedIn:** [Oussama Akhail](https://www.linkedin.com/in/oussama-ak-hail-973ab7235/)  
++ **LinkedIn:** [Oussama AK-HAIL](https://www.linkedin.com/in/oussama-ak-hail-973ab7235/)  
 + **GitHub:** Well… you’re already here! 🚀         
