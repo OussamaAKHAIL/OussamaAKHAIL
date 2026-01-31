@@ -14,7 +14,7 @@ I’m an electrical engineer passionate about **industrial automation, electroni
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/oussama-ak-hail-973ab7235/)  
 
 <h4>Projects</h4>  
-+ **VTOL: ** a vtol (hybrid plane that switch from vertical to horezental flight) built from scratch (body, flight controller, radio remot controller).
++ **VTOL:** A vtol (hybrid plane that switch from vertical to horezental flight) built from scratch (body, flight controller, radio remot controller).
 + **Autoguided Telescope:** A motorized Dobsonian telescope that tracks stars automatically.  
 + **AI Apple Sorting Machine:** An AI & AR-based machine for classifying apples.  
 + **Smart Irrigation System:** Remote-controlled irrigation with GSM and Modbus RTU.
