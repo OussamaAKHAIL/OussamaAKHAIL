@@ -33,6 +33,3 @@ I’m an electrical engineer passionate about **industrial automation, electroni
 
 + **LinkedIn:** [Oussama AK-HAIL](https://www.linkedin.com/in/oussama-ak-hail-973ab7235/)  
 + **GitHub:** Well… you’re already here! 🚀         
- <a href="https://destroy.spritefusion.com/?from=badge" target="_blank">
-  <img src="https://destroy.spritefusion.com/badge.svg" alt="Destroy this website" width="180" height="40" />
-</a>
